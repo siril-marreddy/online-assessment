@@ -1,0 +1,118 @@
+{
+    "data": {
+        "results": [
+            {
+                "id_": "JavVDZ6",
+                "question_type": "OBJECTIVE",
+                "objective_type": "MULTI SELECT",
+                "question_label": "PLEASE STATE YOUR PREFERRED METHODS OF MONEY TRANSFER",
+                "answered": false,
+                "comments": "",
+                "options": [
+                    {
+                        "id": "gNBklZG",
+                        "value": "UPI",
+                        "option_id": 17
+                    },
+                    {
+                        "id": "8ByY5BM",
+                        "value": "NEFT",
+                        "option_id": 18
+                    },
+                    {
+                        "id": "Ovqa2v8",
+                        "value": "RTGS",
+                        "option_id": 1143
+                    }
+                ]
+            },
+            {
+                "id_": "YqZWXRX",
+                "question_type": "OBJECTIVE",
+                "objective_type": "SINGLE SELECT",
+                "question_label": "DO YOU HAVE AN NRI ACCOUNT",
+                "answered": false,
+                "comments": "",
+                "options": [
+                    {
+                        "id": "QyRlAvd",
+                        "value": "YES",
+                        "option_id": 9
+                    },
+                    {
+                        "id": "yZD9zRa",
+                        "value": "NO",
+                        "option_id": 80
+                    }
+                ]
+            },
+            {
+                "id_": "mpRjbR4",
+                "question_type": "SUBJECTIVE",
+                "objective_type": "TEXT",
+                "question_label": "COUNTRY OF RESIDENCE",
+                "answered": false,
+                "comments": "",
+                "options": [
+                    "Text Area"
+                ]
+            },
+            {
+                "id_": "JDBM5Bj",
+                "question_type": "OBJECTIVE",
+                "objective_type": "SINGLE SELECT",
+                "question_label": "DO YOU HAVE MULTIPLE ACCOUNTS",
+                "answered": false,
+                "comments": "",
+                "options": [
+                    {
+                        "id": "YMv2nvb",
+                        "value": "YES",
+                        "option_id": 15
+                    },
+                    {
+                        "id": "5ZeljB3",
+                        "value": "NO",
+                        "option_id": 16
+                    }
+                ]
+            },
+            {
+                "id_": "JavVDZ6",
+                "question_type": "OBJECTIVE",
+                "objective_type": "MULTI SELECT",
+                "question_label": "WHICH SERVICES WOULD YOU LIKE TO AVAIL",
+                "answered": false,
+                "comments": "",
+                "options": [
+                    {
+                        "id": "gNBklZG",
+                        "value": "FOREX EXCHANGE",
+                        "option_id": 17
+                    },
+                    {
+                        "id": "8ByY5BM",
+                        "value": "DOMESTIC EXCHANGE",
+                        "option_id": 18
+                    },
+                    {
+                        "id": "Ovqa2v8",
+                        "value": "BUSINESS SERVICES",
+                        "option_id": 1143
+                    }
+                ]
+            },
+            {
+                "id_": "mpRjbR4",
+                "question_type": "SUBJECTIVE",
+                "objective_type": "TEXT",
+                "question_label": "CURRENCY PREFERRED FOR TRANSFER",
+                "answered": false,
+                "comments": "",
+                "options": [
+                    "Text Area"
+                ]
+            }
+        ]
+    }
+}
